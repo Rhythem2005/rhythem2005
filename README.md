@@ -66,16 +66,16 @@
 🌾 FarmWise         → Machine Learning
 📚 LeetCode Notes   → Productivity Tools
 🔬 NeuralLens       → Deep Learning
-🍕 FoodLens AI      → AI Products
+🍕 FlavorFind       → AI Products
+🛡 DocShield        → Deep Learning
 🚆 RailwayLens      → Future
-🛡 FraudLens        → Future
 ```
 
 ---
 
 # 🔥 Featured Projects
 
-## 🍕 FoodLens AI
+## 🍕 FlavorFind
 
 AI-powered food discovery engine that understands natural language and finds the best food options across delivery platforms.
 
@@ -218,7 +218,7 @@ Scalable AI Products
 
 # 🔮 Future Roadmap
 
-### 🍕 FoodLens 2.0
+### 🍕 FlavorFind 2.0
 
 * Multi-platform aggregation
 * Swiggy Integration
@@ -230,7 +230,7 @@ Scalable AI Products
 
 FoodLens-style AI-powered railway search and travel optimization platform.
 
-### 🛡 FraudLens
+### 🛡 DocShield 
 
 Fraud Detection System for:
 
