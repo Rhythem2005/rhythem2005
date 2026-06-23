@@ -2,90 +2,369 @@
 
 # Rhythem Sabharwal
 
-**Full Stack Developer · AI/ML Integrations · B.Tech CSE @ BPIT Delhi**
+### Full Stack Developer • AI/ML Engineer • Building AI Products End-to-End
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--pqfa.vercel.app-0f0f0f?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-pqfa.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rhythemsabharwal-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhythemsabharwal)
-[![Email](https://img.shields.io/badge/Email-rhythemsabharwal@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rhythemsabharwal@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-ffa116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
-
-</div>
-
----
-
-I build full-stack web applications and integrate ML models into them. My focus is on shipping end-to-end products — from REST APIs and React frontends to CV pipelines and AI-assisted workflows — not just writing code in isolation.
-
-Currently a backend trainee at **LMS Traverse** and pursuing my B.Tech in CS at **Bhagwan Parshuram Institute of Technology, New Delhi** (2023–2027).
-
----
-
-## What I've Built
-
-### 🔬 [NeuralLens](https://github.com/Rhythem2005) — Image Classification via CNN + Transfer Learning
-`Python` `TensorFlow` `Keras` `ResNet50` `Flask` `JavaScript`
-
-End-to-end deep learning pipeline for CIFAR-10 classification. Dual-model architecture: a custom CNN alongside ResNet50 transfer learning, with a Flask REST API for real-time inference and a side-by-side performance comparison frontend.
-
-- Model-specific preprocessing (32×32 for CNN, 224×224 for ResNet50)
-- Top-5 predictions with confidence scores
-- Drag-and-drop JS frontend with animated confidence bars
+<p>
+  <a href="https://portfolio-pqfa.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://linkedin.com/in/rhythemsabharwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rhythemsabharwal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-### 🌾 [FarmWise](https://github.com/Rhythem2005/AI-Crop-yield-and-optimization-) — AI-Powered Agricultural Platform *(Team Project)*
-`React.js` `Flask` `OpenCV` `XGBoost` `Weather API` `Tailwind CSS`
+# 🚀 My Development Journey
 
-Built with a team for Smart India Hackathon (cleared 2 college rounds). Crop disease diagnosis via image (OpenCV) + input-based prediction (XGBoost), integrated with live Weather APIs for climate analytics.
+Every project taught me something new.
 
-- Farmer-facing: insurance support, marketplace module, contextual chatbot
-- Responsive React + Tailwind frontend
+Instead of building random projects, I kept increasing the complexity of each one and learning the missing pieces along the way.
 
 ---
 
-### 🎨 [ArtBot](https://github.com/Rhythem2005/ARTBOT) — Text-to-Image Generation Platform
-`MongoDB` `Express.js` `React.js` `Node.js` `ClipDrop API` `JWT`
+## 2024 — Where It Started
 
-Full MERN stack app for AI-driven image generation. Integrated Claude and GPT for dynamic prompt enhancement. Deployed on Vercel (frontend) + Render (backend).
+### ⚒️ CryptoForge
 
-- JWT + bcrypt auth
-- LLM-enhanced prompts for better image quality
-- Production deployment with zero-downtime setup
+**HTML • CSS • JavaScript**
+
+My first project.
+
+Built completely through prompt engineering while learning frontend fundamentals.
+
+#### What I Learned
+
+* HTML structure
+* CSS layouts
+* JavaScript basics
+* Hosting static websites
+* Understanding how real projects are organized
+
+> This project made me realize software development is much more than solving coding questions.
 
 ---
 
-## Tech Stack
+## Learning APIs & Backend
 
+### 🤖 AI Code Reviewer
+
+**React • Node.js • Express • Gemini API**
+
+My second major project.
+
+Built an AI-powered code review platform that accepts source code and generates improvement suggestions using LLMs.
+
+#### What I Learned
+
+* REST APIs
+* Backend development
+* API integration
+* Request/response lifecycle
+* Working with LLMs
+
+> This was the project where I first understood how frontend and backend communicate.
+
+---
+
+## Full Stack Development
+
+### 🎨 ArtBot
+
+**MongoDB • Express • React • Node.js • JWT**
+
+My first complete full-stack application.
+
+Users could register, log in, and generate AI images.
+
+#### What I Learned
+
+* Authentication
+* JWT
+* Database design
+* Production deployment
+* Frontend + Backend integration
+* Environment management
+
+> First project where I deployed both frontend and backend into production.
+
+---
+
+## Rapid Product Building
+
+### 🌿 Amrutam
+
+**React • Tailwind CSS**
+
+A prompt-engineered healthcare marketplace clone.
+
+Built primarily to explore rapid UI development workflows.
+
+#### What I Learned
+
+* Fast prototyping
+* Modern UI systems
+* Component architecture
+* Product replication
+
+> Learned how quickly products can be built when AI is used effectively.
+
+---
+
+## Understanding RAG Systems
+
+### 🎓 College AI
+
+**React • Node.js • Vector Search • RAG**
+
+Built to understand how AI can answer questions using custom data rather than pretrained knowledge.
+
+#### What I Learned
+
+* Retrieval Augmented Generation (RAG)
+* Embeddings
+* Document indexing
+* Knowledge retrieval
+* AI over private datasets
+
+> My first exposure to production-style AI systems.
+
+---
+
+## AI + ML + Computer Vision
+
+### 🌾 FarmWise
+
+**React • Flask • XGBoost • OpenCV • Weather APIs**
+
+Built with a team during Smart India Hackathon.
+
+Successfully cleared multiple internal rounds.
+
+#### Features
+
+* Crop yield prediction
+* Disease detection
+* Farmer assistance
+* Marketplace integration
+* Climate analysis
+
+#### What I Learned
+
+* XGBoost
+* OpenCV
+* ML deployment
+* Team collaboration
+* AI product architecture
+
+> My first serious machine learning project.
+
+---
+
+## Solving My Own Problems
+
+### 📚 LeetCode Notes AI
+
+**React • AI Workflows**
+
+Built because maintaining DSA notes and tailoring resumes manually became frustrating.
+
+#### Features
+
+* DSA note organization
+* Resume generation
+* JD-based resume customization
+* Quick revision workflows
+
+#### What I Learned
+
+* Personal productivity tools
+* Workflow automation
+* Building products for real pain points
+
+---
+
+## First Proper Deep Learning Project
+
+### 🔬 NeuralLens
+
+**TensorFlow • Keras • CNN • ResNet50 • Flask**
+
+Image classification system trained on CIFAR datasets.
+
+Implemented both custom CNN architectures and transfer learning pipelines.
+
+#### What I Learned
+
+* Model training
+* Data preprocessing
+* Transfer learning
+* CNN architecture design
+* Model evaluation
+
+> First project where I trained and deployed my own ML models.
+
+---
+
+## Current Project
+
+### 🍕 FoodLens AI
+
+**React • FastAPI • Gemini 2.5 • Playwright**
+
+An AI-powered food discovery engine.
+
+Users describe what they want in natural language and FoodLens finds the best restaurant options across food delivery platforms.
+
+#### Example Queries
+
+```text
+Cheap pizza under ₹200
 ```
-Languages     C++  ·  Python  ·  JavaScript
-Frontend      React.js  ·  Tailwind CSS  ·  HTML5 / CSS3
-Backend       Node.js  ·  Express.js  ·  Flask  ·  REST APIs
-Databases     MongoDB  ·  MySQL
-AI / ML       TensorFlow  ·  OpenCV  ·  YOLOv8  ·  Scikit-learn
-              NumPy  ·  Pandas  ·  Prompt Engineering  ·  N8N
-Deployment    Vercel  ·  Render  ·  GitHub
-Tools         Git  ·  Postman  ·  Jupyter  ·  VS Code
+
+```text
+Best biryani for 4 people under ₹800
+```
+
+```text
+Highest rated burger with fastest delivery
+```
+
+#### What I'm Learning
+
+* Agentic AI workflows
+* Large-scale scraping
+* Ranking systems
+* Search relevance
+* Production architecture
+* AI-powered recommendation engines
+
+> My most ambitious project so far.
+
+---
+
+# 🛠 Technical Stack
+
+```text
+Languages
+├── C++
+├── Python
+└── JavaScript
+
+Frontend
+├── React
+├── Tailwind CSS
+└── Vite
+
+Backend
+├── Node.js
+├── Express
+├── Flask
+└── FastAPI
+
+Databases
+├── MongoDB
+└── MySQL
+
+AI / ML
+├── TensorFlow
+├── OpenCV
+├── XGBoost
+├── Scikit-learn
+├── NumPy
+├── Pandas
+└── Gemini APIs
+
+Deployment
+├── Vercel
+├── Render
+└── GitHub
 ```
 
 ---
 
-## Currently
+# 🔮 What's Next?
 
-- 🏢 Backend Trainee Intern @ **LMS Traverse** (June 2026)
-- 📚 **IIT Ropar AI Certification** — Neural Networks, CV, NLP, LLMs, TinyML *(Aug 2024 – Feb 2026)*
-- 🧠 **DSA in C++** @ Coding Blocks — Trees, Graphs, DP, Greedy, Backtracking *(May 2025 – Dec 2025)*
-- ⚡ 100+ LeetCode problems solved · 70-day streak
+The journey is still continuing.
+
+### 🍕 FoodLens AI (Scaling Phase)
+
+* Multi-platform aggregation
+* Swiggy integration
+* MagicPin integration
+* Personalization engine
+* Direct checkout flows
+* Cloud deployment
+
+### 🚆 RailwayLens
+
+A FoodLens-style platform for railway bookings and travel optimization.
+
+Compare routes, waiting lists, ticket availability, and travel recommendations using AI.
+
+### 🛡 Fraud Document & Bill Detection
+
+Machine Learning system capable of detecting:
+
+* Fake invoices
+* Manipulated documents
+* Altered bills
+* Forged receipts
+
+Using:
+
+* Computer Vision
+* OCR
+* Deep Learning
+* Anomaly Detection
 
 ---
 
-## Education
+# 📈 Growth Summary
 
-**B.Tech, Computer Science and Engineering**
-Bhagwan Parshuram Institute of Technology, New Delhi | 2023 – 2027 | CGPA: 7.3
+```text
+CryptoForge
+     ↓
+Frontend Development
+
+Code Reviewer
+     ↓
+Backend + APIs
+
+ArtBot
+     ↓
+Full Stack Engineering
+
+College AI
+     ↓
+RAG Systems
+
+FarmWise
+     ↓
+Machine Learning
+
+NeuralLens
+     ↓
+Deep Learning
+
+FoodLens AI
+     ↓
+AI Products & Agentic Systems
+
+Future
+     ↓
+Large Scale AI Platforms
+```
 
 ---
 
 <div align="center">
 
-*Open to internships, collaborative projects, and startup opportunities.*
+### Building one project at a time. Learning one layer deeper each time.
+
+⭐ If you like my work, feel free to connect.
 
 </div>
