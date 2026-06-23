@@ -1,370 +1,206 @@
 <div align="center">
 
-# Rhythem Sabharwal
+# 👋 Hey, I'm Rhythem Sabharwal
 
-### Full Stack Developer • AI/ML Engineer • Building AI Products End-to-End
+### Full Stack Developer • AI/ML Enthusiast • Building AI Products
 
 <p>
-  <a href="https://portfolio-pqfa.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="https://linkedin.com/in/rhythemsabharwal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:rhythemsabharwal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
+<a href="https://portfolio-pqfa.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://linkedin.com/in/rhythemsabharwal">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rhythemsabharwal@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%2F+ML+Builder;FastAPI+%7C+React+%7C+TensorFlow;Building+FoodLens+AI+🍕" />
 
-# 🚀 My Development Journey
-
-Every project taught me something new.
-
-Instead of building random projects, I kept increasing the complexity of each one and learning the missing pieces along the way.
+</div>
 
 ---
 
-## 2024 — Where It Started
+## 🚀 About Me
 
-### ⚒️ CryptoForge
-
-**HTML • CSS • JavaScript**
-
-My first project.
-
-Built completely through prompt engineering while learning frontend fundamentals.
-
-#### What I Learned
-
-* HTML structure
-* CSS layouts
-* JavaScript basics
-* Hosting static websites
-* Understanding how real projects are organized
-
-> This project made me realize software development is much more than solving coding questions.
+* 🎓 B.Tech CSE @ BPIT Delhi (2023–2027)
+* 🤖 IIT Ropar AI Certification
+* 💻 100+ LeetCode Problems Solved
+* 🌱 Learning AI Systems, ML Engineering & Scalable Backends
+* ⚡ Currently building **FoodLens AI**
 
 ---
 
-## Learning APIs & Backend
+# 🛤️ My Builder Journey
 
-### 🤖 AI Code Reviewer
+```text
+⚒️ CryptoForge
+      ↓
+🤖 Code Reviewer
+      ↓
+🎨 ArtBot
+      ↓
+🌿 Amrutam
+      ↓
+🎓 College AI
+      ↓
+🌾 FarmWise
+      ↓
+📚 LeetCode Notes
+      ↓
+🔬 NeuralLens
+      ↓
+🍕 FoodLens AI
+      ↓
+🚀 Future AI Platforms
+```
 
-**React • Node.js • Express • Gemini API**
-
-My second major project.
-
-Built an AI-powered code review platform that accepts source code and generates improvement suggestions using LLMs.
-
-#### What I Learned
-
-* REST APIs
-* Backend development
-* API integration
-* Request/response lifecycle
-* Working with LLMs
-
-> This was the project where I first understood how frontend and backend communicate.
-
----
-
-## Full Stack Development
-
-### 🎨 ArtBot
-
-**MongoDB • Express • React • Node.js • JWT**
-
-My first complete full-stack application.
-
-Users could register, log in, and generate AI images.
-
-#### What I Learned
-
-* Authentication
-* JWT
-* Database design
-* Production deployment
-* Frontend + Backend integration
-* Environment management
-
-> First project where I deployed both frontend and backend into production.
+| Project           | Biggest Learning            |
+| ----------------- | --------------------------- |
+| ⚒️ CryptoForge    | HTML, CSS, JavaScript       |
+| 🤖 Code Reviewer  | APIs & Backend              |
+| 🎨 ArtBot         | Full Stack Development      |
+| 🌿 Amrutam        | Rapid UI Building           |
+| 🎓 College AI     | RAG Systems                 |
+| 🌾 FarmWise       | XGBoost & OpenCV            |
+| 📚 LeetCode Notes | Productivity Automation     |
+| 🔬 NeuralLens     | Deep Learning               |
+| 🍕 FoodLens AI    | Agentic AI & Search Systems |
 
 ---
 
-## Rapid Product Building
+# 🔥 Featured Projects
 
-### 🌿 Amrutam
+### 🍕 FoodLens AI *(Current)*
 
-**React • Tailwind CSS**
+AI-powered food discovery engine that compares restaurants using natural language.
 
-A prompt-engineered healthcare marketplace clone.
+```text
+"Cheap pizza under ₹200"
+"Best biryani for 4 under ₹800"
+```
 
-Built primarily to explore rapid UI development workflows.
-
-#### What I Learned
-
-* Fast prototyping
-* Modern UI systems
-* Component architecture
-* Product replication
-
-> Learned how quickly products can be built when AI is used effectively.
+**Tech:** React • FastAPI • Gemini • Playwright
 
 ---
-
-## Understanding RAG Systems
-
-### 🎓 College AI
-
-**React • Node.js • Vector Search • RAG**
-
-Built to understand how AI can answer questions using custom data rather than pretrained knowledge.
-
-#### What I Learned
-
-* Retrieval Augmented Generation (RAG)
-* Embeddings
-* Document indexing
-* Knowledge retrieval
-* AI over private datasets
-
-> My first exposure to production-style AI systems.
-
----
-
-## AI + ML + Computer Vision
-
-### 🌾 FarmWise
-
-**React • Flask • XGBoost • OpenCV • Weather APIs**
-
-Built with a team during Smart India Hackathon.
-
-Successfully cleared multiple internal rounds.
-
-#### Features
-
-* Crop yield prediction
-* Disease detection
-* Farmer assistance
-* Marketplace integration
-* Climate analysis
-
-#### What I Learned
-
-* XGBoost
-* OpenCV
-* ML deployment
-* Team collaboration
-* AI product architecture
-
-> My first serious machine learning project.
-
----
-
-## Solving My Own Problems
-
-### 📚 LeetCode Notes AI
-
-**React • AI Workflows**
-
-Built because maintaining DSA notes and tailoring resumes manually became frustrating.
-
-#### Features
-
-* DSA note organization
-* Resume generation
-* JD-based resume customization
-* Quick revision workflows
-
-#### What I Learned
-
-* Personal productivity tools
-* Workflow automation
-* Building products for real pain points
-
----
-
-## First Proper Deep Learning Project
 
 ### 🔬 NeuralLens
 
-**TensorFlow • Keras • CNN • ResNet50 • Flask**
+CNN + ResNet50 image classification platform trained on CIFAR datasets.
 
-Image classification system trained on CIFAR datasets.
-
-Implemented both custom CNN architectures and transfer learning pipelines.
-
-#### What I Learned
-
-* Model training
-* Data preprocessing
-* Transfer learning
-* CNN architecture design
-* Model evaluation
-
-> First project where I trained and deployed my own ML models.
+**Tech:** TensorFlow • Keras • Flask
 
 ---
 
-## Current Project
+### 🌾 FarmWise
 
-### 🍕 FoodLens AI
+Smart India Hackathon agricultural platform using OpenCV + XGBoost.
 
-**React • FastAPI • Gemini 2.5 • Playwright**
-
-An AI-powered food discovery engine.
-
-Users describe what they want in natural language and FoodLens finds the best restaurant options across food delivery platforms.
-
-#### Example Queries
-
-```text
-Cheap pizza under ₹200
-```
-
-```text
-Best biryani for 4 people under ₹800
-```
-
-```text
-Highest rated burger with fastest delivery
-```
-
-#### What I'm Learning
-
-* Agentic AI workflows
-* Large-scale scraping
-* Ranking systems
-* Search relevance
-* Production architecture
-* AI-powered recommendation engines
-
-> My most ambitious project so far.
+**Tech:** React • Flask • OpenCV • XGBoost
 
 ---
 
-# 🛠 Technical Stack
+### 🎓 College AI
 
-```text
-Languages
-├── C++
-├── Python
-└── JavaScript
+Custom RAG system for answering college-related questions using private datasets.
 
-Frontend
-├── React
-├── Tailwind CSS
-└── Vite
+**Tech:** React • Node.js • AI APIs
 
-Backend
-├── Node.js
-├── Express
-├── Flask
-└── FastAPI
+---
 
-Databases
-├── MongoDB
-└── MySQL
+# 🧰 Tech Stack
 
-AI / ML
-├── TensorFlow
-├── OpenCV
-├── XGBoost
-├── Scikit-learn
-├── NumPy
-├── Pandas
-└── Gemini APIs
+### Languages
 
-Deployment
-├── Vercel
-├── Render
-└── GitHub
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square\&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square\&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square\&logo=flask)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+
+---
+
+# 📊 Current Focus
+
+```mermaid
+graph LR
+
+A[React] --> B[FastAPI]
+B --> C[AI Systems]
+C --> D[Machine Learning]
+D --> E[Agentic Workflows]
+E --> F[Scalable Products]
 ```
 
 ---
 
 # 🔮 What's Next?
 
-The journey is still continuing.
-
-### 🍕 FoodLens AI (Scaling Phase)
-
-* Multi-platform aggregation
-* Swiggy integration
-* MagicPin integration
-* Personalization engine
-* Direct checkout flows
-* Cloud deployment
-
 ### 🚆 RailwayLens
 
-A FoodLens-style platform for railway bookings and travel optimization.
+FoodLens-style AI platform for train travel optimization.
 
-Compare routes, waiting lists, ticket availability, and travel recommendations using AI.
+### 🛡️ FraudLens
 
-### 🛡 Fraud Document & Bill Detection
+AI-powered fraud detection for:
 
-Machine Learning system capable of detecting:
+* Bills
+* Receipts
+* Invoices
+* Documents
 
-* Fake invoices
-* Manipulated documents
-* Altered bills
-* Forged receipts
+Using OCR + Computer Vision + Deep Learning.
 
-Using:
+### 🍕 FoodLens 2.0
 
-* Computer Vision
-* OCR
-* Deep Learning
-* Anomaly Detection
+* Multi-platform comparison
+* Swiggy Integration
+* MagicPin Integration
+* Personalized recommendations
+* Cloud deployment
 
 ---
 
-# 📈 Growth Summary
+# 📈 2026 Goal
 
 ```text
-CryptoForge
-     ↓
-Frontend Development
-
-Code Reviewer
-     ↓
-Backend + APIs
-
-ArtBot
-     ↓
-Full Stack Engineering
-
-College AI
-     ↓
-RAG Systems
-
-FarmWise
-     ↓
-Machine Learning
-
-NeuralLens
-     ↓
-Deep Learning
-
-FoodLens AI
-     ↓
-AI Products & Agentic Systems
-
-Future
-     ↓
-Large Scale AI Platforms
+Frontend Developer
+        ↓
+Full Stack Developer
+        ↓
+ML Engineer
+        ↓
+AI Product Engineer
+        ↓
+Founder / Builder
 ```
 
 ---
 
 <div align="center">
 
-### Building one project at a time. Learning one layer deeper each time.
+### Building products. Learning publicly. Improving continuously.
 
-⭐ If you like my work, feel free to connect.
+⭐ Open to internships, collaborations, and startup opportunities.
 
 </div>
