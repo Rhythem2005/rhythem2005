@@ -1,3 +1,7 @@
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/a645e810-2905-4ef2-a62d-a6b3e0bb16b7" />
+
+
+
 <div align="center">
 
 # 👋 Hey, I'm Rhythem Sabharwal
@@ -38,19 +42,17 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 **B.Tech CSE @ BPIT Delhi (2023–2027)**
 
-🤖 **IIT Ropar AI Certification Program**
-
-💻 **100+ LeetCode Problems Solved**
+🤖 **MAJOR IN AI FROM IIT ROPAR**
 
 🧠 **DSA @ Coding Blocks**
 
-🌱 Exploring **AI Systems, Machine Learning & Agentic Workflows**
+💻 **100+ LeetCode Problems Solved**
 
-⚡ Currently Building **FoodLens AI**
+🌱 Exploring **AI Systems, Machine Learning & Agentic Workflows**
 
 > Building products that combine Full Stack Engineering, Machine Learning, and AI into real-world applications.
 
@@ -76,171 +78,126 @@
 
 # 🔥 Featured Projects
 
-## 🍕 FoodLens AI (Current)
+## 🍕 FoodLens AI
 
 AI-powered food discovery engine that understands natural language and finds the best food options across delivery platforms.
 
 **Tech Stack:** React • FastAPI • Gemini • Playwright
 
-Example Searches:
+**Learning:**
 
-```text
-Cheap pizza under ₹200
-Best biryani for 4 people under ₹800
-Fastest burger delivery near me
-```
+* Agentic AI Workflows
+* Search Relevance
+* Ranking Systems
+* Web Scraping
+* Recommendation Engines
 
 ---
 
 ## 🔬 NeuralLens
 
-Image Classification Platform built using Deep Learning.
-
-* Custom CNN Architecture
-* ResNet50 Transfer Learning
-* CIFAR Dataset Training
-* Flask Inference API
+Deep Learning based Image Classification Platform trained on CIFAR datasets.
 
 **Tech:** TensorFlow • Keras • Flask • Python
+
+**Learning:**
+
+* CNN Architecture
+* Transfer Learning
+* Model Training
+* Real-time Inference APIs
 
 ---
 
 ## 🌾 FarmWise
 
-AI-Powered Agriculture Platform built for Smart India Hackathon.
-
-* Crop Yield Prediction
-* Disease Detection
-* Weather Analytics
-* Farmer Assistance
+Smart India Hackathon project focused on agriculture optimization and disease detection.
 
 **Tech:** React • Flask • OpenCV • XGBoost
 
+**Learning:**
+
+* Computer Vision
+* XGBoost
+* Team Development
+* AI Deployment
+
 ---
 
-## 🎓 College AI
-
-Custom RAG System built to answer questions using private datasets instead of relying solely on LLM knowledge.
-
-**Tech:** React • Node.js • Vector Search • Gemini
 
 ---
 
 # 🛠️ Tech Arsenal
 
-<details>
-<summary><b>💻 Programming Languages</b></summary>
+### 💻 Programming Languages
 
-<br>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend Technologies</b></summary>
-
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend Technologies</b></summary>
-
-<br>
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-
-</details>
-
-<details>
-<summary><b>🤖 AI / Machine Learning</b></summary>
-
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge)
-![N8N](https://img.shields.io/badge/N8N-Agentic_AI-EA4B71?style=for-the-badge\&logo=n8n)
-
-</details>
-
-<details>
-<summary><b>🧰 Tools & Platforms</b></summary>
-
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge\&logo=jupyter)
-
-</details>
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-# 🧠 Problem Solving
+### 🎨 Frontend Technologies
 
-```text
-DSA & Competitive Programming
-├── Coding Blocks DSA Program
-├── 100+ LeetCode Problems Solved
-├── Trees
-├── Graphs
-├── Dynamic Programming
-├── Greedy Algorithms
-├── Backtracking
-└── STL & Problem Solving
-```
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+### ⚙️ Backend Technologies
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rhythem2005&show_icons=true&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhythem2005&layout=compact&hide_border=true"/>
+### 🗄️ Databases
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+</p>
 
-<br>
+---
 
-<div align="center">
+### 🤖 AI & Machine Learning
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhythem2005&hide_border=true"/>
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/N8N-Agentic_AI-EA4B71?style=for-the-badge&logo=n8n"/>
+</p>
 
-</div>
+---
+
+### 🧰 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter"/>
+</p>
 
 ---
 
@@ -274,11 +231,18 @@ Scalable AI Products
 
 ### 🚆 RailwayLens
 
-AI-powered railway search and travel optimization platform.
+FoodLens-style AI-powered railway search and travel optimization platform.
 
 ### 🛡 FraudLens
 
-Document, Receipt, Invoice & Bill Fraud Detection using:
+Fraud Detection System for:
+
+* Bills
+* Receipts
+* Invoices
+* Documents
+
+Using:
 
 * OCR
 * Computer Vision
