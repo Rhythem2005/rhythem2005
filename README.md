@@ -5,20 +5,34 @@
 ### Full Stack Developer • AI/ML Enthusiast • Building AI Products
 
 <p>
-<a href="https://portfolio-pqfa.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel"/>
+
+<a href="https://rhythem-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-black?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/rhythemsabharwal">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/rhythem-sabharwal-a9027529b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Rhythem_Sabharwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rhythemsabharwal@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://x.com/jaiiissssss" target="_blank">
+<img src="https://img.shields.io/badge/X-@jaiiissssss-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/rhythemsabahrwal/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%2F+ML+Builder;FastAPI+%7C+React+%7C+TensorFlow;Building+FoodLens+AI+🍕" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Engineer;FastAPI+%7C+React+%7C+TensorFlow;Building+FoodLens+AI+🍕;Always+Learning+Something+New+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Rhythem2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -26,174 +40,250 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE @ BPIT Delhi (2023–2027)
-* 🤖 IIT Ropar AI Certification
-* 💻 100+ LeetCode Problems Solved
-* 🌱 Learning AI Systems, ML Engineering & Scalable Backends
-* ⚡ Currently building **FoodLens AI**
+🎓 **B.Tech CSE @ BPIT Delhi (2023–2027)**
+
+🤖 **IIT Ropar AI Certification Program**
+
+💻 **100+ LeetCode Problems Solved**
+
+🧠 **DSA @ Coding Blocks**
+
+🌱 Exploring **AI Systems, Machine Learning & Agentic Workflows**
+
+⚡ Currently Building **FoodLens AI**
+
+> Building products that combine Full Stack Engineering, Machine Learning, and AI into real-world applications.
 
 ---
 
-# 🛤️ My Builder Journey
+# 🛤️ Builder Timeline
 
 ```text
-⚒️ CryptoForge
-      ↓
-🤖 Code Reviewer
-      ↓
-🎨 ArtBot
-      ↓
-🌿 Amrutam
-      ↓
-🎓 College AI
-      ↓
-🌾 FarmWise
-      ↓
-📚 LeetCode Notes
-      ↓
-🔬 NeuralLens
-      ↓
-🍕 FoodLens AI
-      ↓
-🚀 Future AI Platforms
+⚒️ CryptoForge      → Frontend Foundations
+🤖 Code Reviewer    → APIs & Backend
+🎨 ArtBot           → Full Stack Development
+🌿 Amrutam          → Rapid UI Building
+🎓 College AI       → RAG Systems
+🌾 FarmWise         → Machine Learning
+📚 LeetCode Notes   → Productivity Tools
+🔬 NeuralLens       → Deep Learning
+🍕 FoodLens AI      → AI Products
+🚆 RailwayLens      → Future
+🛡 FraudLens        → Future
 ```
-
-| Project           | Biggest Learning            |
-| ----------------- | --------------------------- |
-| ⚒️ CryptoForge    | HTML, CSS, JavaScript       |
-| 🤖 Code Reviewer  | APIs & Backend              |
-| 🎨 ArtBot         | Full Stack Development      |
-| 🌿 Amrutam        | Rapid UI Building           |
-| 🎓 College AI     | RAG Systems                 |
-| 🌾 FarmWise       | XGBoost & OpenCV            |
-| 📚 LeetCode Notes | Productivity Automation     |
-| 🔬 NeuralLens     | Deep Learning               |
-| 🍕 FoodLens AI    | Agentic AI & Search Systems |
 
 ---
 
 # 🔥 Featured Projects
 
-### 🍕 FoodLens AI *(Current)*
+## 🍕 FoodLens AI (Current)
 
-AI-powered food discovery engine that compares restaurants using natural language.
+AI-powered food discovery engine that understands natural language and finds the best food options across delivery platforms.
+
+**Tech Stack:** React • FastAPI • Gemini • Playwright
+
+Example Searches:
 
 ```text
-"Cheap pizza under ₹200"
-"Best biryani for 4 under ₹800"
+Cheap pizza under ₹200
+Best biryani for 4 people under ₹800
+Fastest burger delivery near me
 ```
 
-**Tech:** React • FastAPI • Gemini • Playwright
+---
+
+## 🔬 NeuralLens
+
+Image Classification Platform built using Deep Learning.
+
+* Custom CNN Architecture
+* ResNet50 Transfer Learning
+* CIFAR Dataset Training
+* Flask Inference API
+
+**Tech:** TensorFlow • Keras • Flask • Python
 
 ---
 
-### 🔬 NeuralLens
+## 🌾 FarmWise
 
-CNN + ResNet50 image classification platform trained on CIFAR datasets.
+AI-Powered Agriculture Platform built for Smart India Hackathon.
 
-**Tech:** TensorFlow • Keras • Flask
-
----
-
-### 🌾 FarmWise
-
-Smart India Hackathon agricultural platform using OpenCV + XGBoost.
+* Crop Yield Prediction
+* Disease Detection
+* Weather Analytics
+* Farmer Assistance
 
 **Tech:** React • Flask • OpenCV • XGBoost
 
 ---
 
-### 🎓 College AI
+## 🎓 College AI
 
-Custom RAG system for answering college-related questions using private datasets.
+Custom RAG System built to answer questions using private datasets instead of relying solely on LLM knowledge.
 
-**Tech:** React • Node.js • AI APIs
-
----
-
-# 🧰 Tech Stack
-
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square\&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square\&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square\&logo=flask)
-
-### AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+**Tech:** React • Node.js • Vector Search • Gemini
 
 ---
 
-# 📊 Current Focus
+# 🛠️ Tech Arsenal
 
-```mermaid
-graph LR
+<details>
+<summary><b>💻 Programming Languages</b></summary>
 
-A[React] --> B[FastAPI]
-B --> C[AI Systems]
-C --> D[Machine Learning]
-D --> E[Agentic Workflows]
-E --> F[Scalable Products]
+<br>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend Technologies</b></summary>
+
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend Technologies</b></summary>
+
+<br>
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+</details>
+
+<details>
+<summary><b>🤖 AI / Machine Learning</b></summary>
+
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge)
+![N8N](https://img.shields.io/badge/N8N-Agentic_AI-EA4B71?style=for-the-badge\&logo=n8n)
+
+</details>
+
+<details>
+<summary><b>🧰 Tools & Platforms</b></summary>
+
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge\&logo=jupyter)
+
+</details>
+
+---
+
+# 🧠 Problem Solving
+
+```text
+DSA & Competitive Programming
+├── Coding Blocks DSA Program
+├── 100+ LeetCode Problems Solved
+├── Trees
+├── Graphs
+├── Dynamic Programming
+├── Greedy Algorithms
+├── Backtracking
+└── STL & Problem Solving
 ```
 
 ---
 
-# 🔮 What's Next?
+# 📊 GitHub Analytics
 
-### 🚆 RailwayLens
+<div align="center">
 
-FoodLens-style AI platform for train travel optimization.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rhythem2005&show_icons=true&hide_border=true"/>
 
-### 🛡️ FraudLens
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhythem2005&layout=compact&hide_border=true"/>
 
-AI-powered fraud detection for:
+</div>
 
-* Bills
-* Receipts
-* Invoices
-* Documents
+<br>
 
-Using OCR + Computer Vision + Deep Learning.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhythem2005&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+React
+  ↓
+FastAPI
+  ↓
+Machine Learning
+  ↓
+Deep Learning
+  ↓
+Agentic AI
+  ↓
+Scalable AI Products
+```
+
+---
+
+# 🔮 Future Roadmap
 
 ### 🍕 FoodLens 2.0
 
-* Multi-platform comparison
+* Multi-platform aggregation
 * Swiggy Integration
 * MagicPin Integration
-* Personalized recommendations
-* Cloud deployment
+* Personalization Engine
+* Cloud Infrastructure
 
----
+### 🚆 RailwayLens
 
-# 📈 2026 Goal
+AI-powered railway search and travel optimization platform.
 
-```text
-Frontend Developer
-        ↓
-Full Stack Developer
-        ↓
-ML Engineer
-        ↓
-AI Product Engineer
-        ↓
-Founder / Builder
-```
+### 🛡 FraudLens
+
+Document, Receipt, Invoice & Bill Fraud Detection using:
+
+* OCR
+* Computer Vision
+* Deep Learning
+* Anomaly Detection
 
 ---
 
