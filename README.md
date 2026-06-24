@@ -47,8 +47,6 @@
 
 🧠 **DSA @ Coding Blocks**
 
-💻 **100+ LeetCode Problems Solved**
-
 🌱 Exploring **AI Systems, Machine Learning & Agentic Workflows**
 
 > Building products that combine Full Stack Engineering, Machine Learning, and AI into real-world applications.
