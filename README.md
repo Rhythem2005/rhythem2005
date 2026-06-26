@@ -81,7 +81,6 @@ AI-powered food discovery engine that understands natural language and finds the
 
 **Learning:**
 
-* Agentic AI Workflows
 * Search Relevance
 * Ranking Systems
 * Web Scraping
