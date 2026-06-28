@@ -107,7 +107,7 @@ Deep Learning based Image Classification Platform trained on CIFAR datasets.
 
 Smart India Hackathon project focused on agriculture optimization and disease detection.
 
-**Tech:** React • Flask • OpenCV • XGBoost
+**Tech:** React • Flask • OpenCV • XGBoost • Gemini 
 
 **Learning:**
 
