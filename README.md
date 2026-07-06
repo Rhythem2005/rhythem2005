@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hey, I'm Rhythem Sabharwal
@@ -6,30 +5,24 @@
 ### Full Stack Developer • AI/ML Enthusiast • Building AI Products
 
 <p>
-
-<a href="https://rhythem-portfolio.vercel.app/" target="_blank">
+<a href="https://portfolio-pqfa.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-black?style=for-the-badge"/>
 </a>
-
 <a href="https://www.linkedin.com/in/rhythem-sabharwal-a9027529b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Rhythem_Sabharwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:rhythemsabharwal@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://x.com/jaiiissssss" target="_blank">
 <img src="https://img.shields.io/badge/X-@jaiiissssss-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/rhythemsabahrwal/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Engineer;FastAPI+%7C+React+%7C+TensorFlow;Building+FoodLens+AI+🍕;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Engineer;FastAPI+%7C+React+%7C+TensorFlow;Building+FoodLens+AI+%F0%9F%8D%95;Always+Learning+Something+New+%F0%9F%9A%80" />
 
 <br>
 
@@ -39,11 +32,11 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 **B.Tech CSE @ BPIT Delhi (2023–2027)**
 
-🤖 **MAJOR IN AI FROM IIT ROPAR**
+🤖 **Major in AI from IIT Ropar**
 
 🧠 **DSA @ Coding Blocks**
 
@@ -53,7 +46,7 @@
 
 ---
 
-# 🛤️ Builder Timeline
+## 🛤️ Builder Timeline
 
 ```text
 ⚒️ CryptoForge      → Frontend Foundations
@@ -61,9 +54,7 @@
 🎨 ArtBot           → Full Stack Development
 🌿 Amrutam          → Rapid UI Building
 🎓 College AI       → RAG Systems
-🌾 FarmWise         → Machine Learning
 📚 LeetCode Notes   → Productivity Tools
-🔬 NeuralLens       → Deep Learning
 🍕 FlavorFind       → AI Products
 🛡 DocShield        → Deep Learning
 🚆 RailwayLens      → Future
@@ -71,68 +62,45 @@
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
-## 🍕 FlavorFind
-
+### 🍕 FlavorFind
 AI-powered food discovery engine that understands natural language and finds the best food options across delivery platforms.
 
 **Tech Stack:** React • FastAPI • Gemini • Playwright
 
-**Learning:**
-
-* Search Relevance
-* Ranking Systems
-* Web Scraping
-* Recommendation Engines
+**Learning:** Search Relevance • Ranking Systems • Web Scraping • Recommendation Engines
 
 ---
 
-## 🔬 NeuralLens
-
+### 🔬 NeuralLens
 Deep Learning based Image Classification Platform trained on CIFAR datasets.
 
 **Tech:** TensorFlow • Keras • Flask • Python
 
-**Learning:**
-
-* CNN Architecture
-* Transfer Learning
-* Model Training
-* Real-time Inference APIs
+**Learning:** CNN Architecture • Transfer Learning • Model Training • Real-time Inference APIs
 
 ---
 
-## 🌾 FarmWise
-
+### 🌾 FarmWise
 Smart India Hackathon project focused on agriculture optimization and disease detection.
 
-**Tech:** React • Flask • OpenCV • XGBoost • Gemini 
+**Tech:** React • Flask • OpenCV • XGBoost • Gemini
 
-**Learning:**
-
-* Computer Vision
-* XGBoost
-* Team Development
-* AI Deployment
+**Learning:** Computer Vision • XGBoost • Team Development • AI Deployment
 
 ---
 
+## 🛠️ Tech Arsenal
 
----
-
-# 🛠️ Tech Arsenal
-
-### 💻 Programming Languages
+**💻 Programming Languages**
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-
-### 🎨 Frontend Technologies
+**🎨 Frontend Technologies**
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -142,9 +110,7 @@ Smart India Hackathon project focused on agriculture optimization and disease de
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
 </p>
 
----
-
-### ⚙️ Backend Technologies
+**⚙️ Backend Technologies**
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
@@ -154,18 +120,14 @@ Smart India Hackathon project focused on agriculture optimization and disease de
 <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge"/>
 </p>
 
----
-
-### 🗄️ Databases
+**🗄️ Databases**
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 </p>
 
----
-
-### 🤖 AI & Machine Learning
+**🤖 AI & Machine Learning**
 
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
@@ -179,9 +141,7 @@ Smart India Hackathon project focused on agriculture optimization and disease de
 <img src="https://img.shields.io/badge/N8N-Agentic_AI-EA4B71?style=for-the-badge&logo=n8n"/>
 </p>
 
----
-
-### 🧰 Tools & Platforms
+**🧰 Tools & Platforms**
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
@@ -195,53 +155,56 @@ Smart India Hackathon project focused on agriculture optimization and disease de
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ```text
-React
-  ↓
-FastAPI
-  ↓
-Machine Learning
-  ↓
-Deep Learning
-  ↓
-Agentic AI
-  ↓
-Scalable AI Products
+React → FastAPI → Machine Learning → Deep Learning → Agentic AI → Scalable AI Products
 ```
 
 ---
 
-# 🔮 Future Roadmap
+## 🔮 Future Roadmap
 
-### 🍕 FlavorFind 2.0
+**🍕 FlavorFind 2.0** — Multi-platform aggregation • Swiggy Integration • MagicPin Integration • Personalization Engine • Cloud Infrastructure
 
-* Multi-platform aggregation
-* Swiggy Integration
-* MagicPin Integration
-* Personalization Engine
-* Cloud Infrastructure
+**🚆 RailwayLens** — FoodLens-style AI-powered railway search and travel optimization platform.
 
-### 🚆 RailwayLens
+**🛡 DocShield** — Fraud Detection System for Bills, Receipts, Invoices & Documents, using OCR, Computer Vision, Deep Learning & Anomaly Detection.
 
-FoodLens-style AI-powered railway search and travel optimization platform.
+---
 
-### 🛡 DocShield 
+## ⚡ Stats
 
-Fraud Detection System for:
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhythem2005&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rhythem2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+</p>
 
-* Bills
-* Receipts
-* Invoices
-* Documents
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhythem2005&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
 
-Using:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rhythem2005&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+</p>
 
-* OCR
-* Computer Vision
-* Deep Learning
-* Anomaly Detection
+---
+
+## 🌌 3D Contribution Calendar
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rhythem2005/Rhythem2005/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rhythem2005/Rhythem2005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rhythem2005/Rhythem2005/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rhythem2005/Rhythem2005/output/github-snake.svg" width="90%" />
+</picture>
 
 ---
 
@@ -250,5 +213,7 @@ Using:
 ### Building products. Learning publicly. Improving continuously.
 
 ⭐ Open to internships, collaborations, and startup opportunities.
+
+I'm always down to collaborate :)
 
 </div>
