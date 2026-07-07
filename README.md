@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Rhythem Sabharwal
+#  Hey, I'm Rhythem Sabharwal
 
 ### Full Stack Developer • AI/ML Enthusiast • Building AI Products
 
