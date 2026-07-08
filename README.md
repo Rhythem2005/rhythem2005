@@ -202,7 +202,7 @@ React → FastAPI → Machine Learning → Deep Learning → Agentic AI → Scal
 ## Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rhythem2005/Rhythem2005/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/Rhythem2005/Rhythem2005/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 </p>
 
 <picture>
