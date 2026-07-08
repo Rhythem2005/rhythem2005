@@ -1,15 +1,15 @@
 <div align="center">
 
-#  Hey, I'm Rhythem Sabharwal
+# Rhythem Sabharwal
 
-### Full Stack Developer • AI/ML Enthusiast • Building AI Products
+### Full Stack Developer &nbsp;•&nbsp; AI/ML Engineer &nbsp;•&nbsp; Building AI Products
 
 <p>
 <a href="https://portfolio-pqfa.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/rhythem-sabharwal-a9027529b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Rhythem_Sabharwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rhythemsabharwal@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -22,31 +22,30 @@
 </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Engineer;FastAPI+%7C+React+%7C+TensorFlow;Building+FoodLens+AI+%F0%9F%8D%95;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Engineer;FastAPI+%7C+React+%7C+TensorFlow;Building+FoodLens+AI;Always+Learning+Something+New" />
 
-<br>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rhythem2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+## About Me
 
-🎓 **B.Tech CSE @ BPIT Delhi (2023–2027)**
+- 🎓 **B.Tech, Computer Science & Engineering** — BPIT Delhi (2023–2027)
+- 🤖 **AI Major** — IIT Ropar
+- 🧠 **DSA & Problem Solving** — Coding Blocks
+- 🌱 Currently exploring **AI systems, machine learning, and agentic workflows**
 
-🤖 **Major in AI from IIT Ropar**
+> I build products at the intersection of full-stack engineering and applied AI — turning models and APIs into real-world tools people actually use.
 
-🧠 **DSA @ Coding Blocks**
+**Open to internships, collaborations, and startup opportunities.**
 
-🌱 Exploring **AI Systems, Machine Learning & Agentic Workflows**
+<br/>
 
-> Building products that combine Full Stack Engineering, Machine Learning, and AI into real-world applications.
-
----
-
-## 🛤️ Builder Timeline
+## Builder Timeline
 
 ```text
 ⚒️ CryptoForge      → Frontend Foundations
@@ -60,47 +59,57 @@
 🚆 RailwayLens      → Future
 ```
 
----
+<br/>
 
-## 🔥 Featured Projects
+## Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🍕 FlavorFind
-AI-powered food discovery engine that understands natural language and finds the best food options across delivery platforms.
+AI-powered food discovery engine that understands natural language queries and surfaces the best options across delivery platforms.
 
-**Tech Stack:** React • FastAPI • Gemini • Playwright
+**Stack:** React · FastAPI · Gemini · Playwright
 
-**Learning:** Search Relevance • Ranking Systems • Web Scraping • Recommendation Engines
+**Focus:** Search relevance · Ranking systems · Web scraping · Recommendation engines
 
----
+</td>
+<td width="33%" valign="top">
 
 ### 🔬 NeuralLens
-Deep Learning based Image Classification Platform trained on CIFAR datasets.
+Deep learning image classification platform trained on the CIFAR datasets, served through a real-time inference API.
 
-**Tech:** TensorFlow • Keras • Flask • Python
+**Stack:** TensorFlow · Keras · Flask · Python
 
-**Learning:** CNN Architecture • Transfer Learning • Model Training • Real-time Inference APIs
+**Focus:** CNN architecture · Transfer learning · Model training · Real-time inference
 
----
+</td>
+<td width="33%" valign="top">
 
 ### 🌾 FarmWise
-Smart India Hackathon project focused on agriculture optimization and disease detection.
+Smart India Hackathon project for agriculture optimization and crop disease detection.
 
-**Tech:** React • Flask • OpenCV • XGBoost • Gemini
+**Stack:** React · Flask · OpenCV · XGBoost · Gemini
 
-**Learning:** Computer Vision • XGBoost • Team Development • AI Deployment
+**Focus:** Computer vision · XGBoost · Team development · AI deployment
 
----
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Arsenal
+<br/>
 
-**💻 Programming Languages**
+## Tech Stack
+
+**Languages**
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**🎨 Frontend Technologies**
+**Frontend**
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -110,7 +119,7 @@ Smart India Hackathon project focused on agriculture optimization and disease de
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
 </p>
 
-**⚙️ Backend Technologies**
+**Backend**
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
@@ -120,14 +129,14 @@ Smart India Hackathon project focused on agriculture optimization and disease de
 <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge"/>
 </p>
 
-**🗄️ Databases**
+**Databases**
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 </p>
 
-**🤖 AI & Machine Learning**
+**AI & Machine Learning**
 
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
@@ -141,7 +150,7 @@ Smart India Hackathon project focused on agriculture optimization and disease de
 <img src="https://img.shields.io/badge/N8N-Agentic_AI-EA4B71?style=for-the-badge&logo=n8n"/>
 </p>
 
-**🧰 Tools & Platforms**
+**Tools & Platforms**
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
@@ -153,27 +162,27 @@ Smart India Hackathon project focused on agriculture optimization and disease de
 <img src="https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
 
----
+<br/>
 
-## 🎯 Current Focus
+## Current Focus
 
 ```text
 React → FastAPI → Machine Learning → Deep Learning → Agentic AI → Scalable AI Products
 ```
 
----
+<br/>
 
-## 🔮 Future Roadmap
+## Roadmap
 
-**🍕 FlavorFind 2.0** — Multi-platform aggregation • Swiggy Integration • MagicPin Integration • Personalization Engine • Cloud Infrastructure
+| Project | Description |
+|---|---|
+| 🍕 **FlavorFind 2.0** | Multi-platform aggregation, Swiggy & MagicPin integration, a personalization engine, and cloud infrastructure |
+| 🚆 **RailwayLens** | A FoodLens-style, AI-powered railway search and travel optimization platform |
+| 🛡 **DocShield** | Fraud detection for bills, receipts, and invoices using OCR, computer vision, deep learning, and anomaly detection |
 
-**🚆 RailwayLens** — FoodLens-style AI-powered railway search and travel optimization platform.
+<br/>
 
-**🛡 DocShield** — Fraud Detection System for Bills, Receipts, Invoices & Documents, using OCR, Computer Vision, Deep Learning & Anomaly Detection.
-
----
-
-## ⚡ Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhythem2005&theme=tokyonight&hide_border=true" width="48%"/>
@@ -188,17 +197,13 @@ React → FastAPI → Machine Learning → Deep Learning → Agentic AI → Scal
 <img src="https://github-profile-trophy.vercel.app/?username=Rhythem2005&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 </p>
 
----
+<br/>
 
-## 🌌 3D Contribution Calendar
+## Contribution Activity
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rhythem2005/Rhythem2005/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rhythem2005/Rhythem2005/output/github-snake-dark.svg" />
@@ -206,14 +211,10 @@ React → FastAPI → Machine Learning → Deep Learning → Agentic AI → Scal
   <img alt="github-snake" src="https://raw.githubusercontent.com/Rhythem2005/Rhythem2005/output/github-snake.svg" width="90%" />
 </picture>
 
----
+<br/><br/>
 
 <div align="center">
 
-### Building products. Learning publicly. Improving continuously.
-
-⭐ Open to internships, collaborations, and startup opportunities.
-
-I'm always down to collaborate :)
+**Building products. Learning publicly. Improving continuously.**
 
 </div>
