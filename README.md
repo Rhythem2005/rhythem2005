@@ -22,7 +22,7 @@
 </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Engineer;FastAPI+%7C+React+%7C+TensorFlow;Building+FoodLens+AI;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Engineer;PyTorch+%7C+FastAPI+%7C+React;Building+Nova+SLM+from+Scratch;Always+Learning+Something+New" />
 
 <br/>
 
@@ -37,7 +37,8 @@
 - 🎓 **B.Tech, Computer Science & Engineering** — BPIT Delhi (2023–2027)
 - 🤖 **AI Major** — IIT Ropar
 - 🧠 **DSA & Problem Solving** — Coding Blocks
-- 🌱 Currently exploring **AI systems, machine learning, and agentic workflows**
+- 💼 **Backend Trainee** @ LMS Traverse
+- 🌱 Currently building **Nova SLM** — a transformer language model from scratch in PyTorch
 
 > I build products at the intersection of full-stack engineering and applied AI — turning models and APIs into real-world tools people actually use.
 
@@ -56,6 +57,8 @@
 📚 LeetCode Notes   → Productivity Tools
 🍕 FlavorFind       → AI Products
 🛡 DocShield        → Deep Learning
+🧠 Nova SLM         → Transformers from Scratch
+🔎 RAG QA System    → Retrieval-Augmented Generation
 ```
 
 <br/>
@@ -66,6 +69,26 @@
 <tr>
 <td width="33%" valign="top">
 
+### 🧠 Nova SLM
+A 29.9M-parameter decoder-only transformer built from scratch in PyTorch — causal self-attention, GPT-2 tokenization, and a full training pipeline reaching a validation perplexity of 11.
+
+**Stack:** PyTorch · Python · AdamW · Cosine LR Scheduling
+
+**Focus:** Transformer architecture · Attention mechanisms · Training pipelines · From-scratch implementation
+
+</td>
+<td width="33%" valign="top">
+
+### 🔎 RAG Document Q&A
+Retrieval-augmented generation system for multi-format document search across PDF, DOCX, and CSV, with semantic search and grounded generation.
+
+**Stack:** LangChain · FAISS · ChromaDB · Sentence-Transformers
+
+**Focus:** Vector search · RAG pipelines · Prompt assembly · LLM integration
+
+</td>
+<td width="33%" valign="top">
+
 ### 🍕 FlavorFind
 AI-powered food discovery engine that understands natural language queries and surfaces the best options across delivery platforms.
 
@@ -74,17 +97,9 @@ AI-powered food discovery engine that understands natural language queries and s
 **Focus:** Search relevance · Ranking systems · Web scraping · Recommendation engines
 
 </td>
-<td width="33%" valign="top">
-
-### 🔬 NeuralLens
-Deep learning image classification platform trained on the CIFAR datasets, served through a real-time inference API.
-
-**Stack:** TensorFlow · Keras · Flask · Python
-
-**Focus:** CNN architecture · Transfer learning · Model training · Real-time inference
-
-</td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌾 FarmWise
 Smart India Hackathon project for agriculture optimization and crop disease detection.
@@ -92,6 +107,16 @@ Smart India Hackathon project for agriculture optimization and crop disease dete
 **Stack:** React · Flask · OpenCV · XGBoost · Gemini
 
 **Focus:** Computer vision · XGBoost · Team development · AI deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 NeuralLens
+Deep learning image classification platform trained on the CIFAR datasets, served through a real-time inference API.
+
+**Stack:** TensorFlow · Keras · Flask · Python
+
+**Focus:** CNN architecture · Transfer learning · Model training · Real-time inference
 
 </td>
 </tr>
@@ -138,6 +163,10 @@ Smart India Hackathon project for agriculture optimization and crop disease dete
 **AI & Machine Learning**
 
 <p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
@@ -166,7 +195,7 @@ Smart India Hackathon project for agriculture optimization and crop disease dete
 ## Current Focus
 
 ```text
-React → FastAPI → Machine Learning → Deep Learning → Agentic AI → Scalable AI Products
+React → FastAPI → Machine Learning → Deep Learning → LLMs & Transformers → Scalable AI Products
 ```
 
 <br/>
@@ -175,6 +204,7 @@ React → FastAPI → Machine Learning → Deep Learning → Agentic AI → Scal
 
 | Project | Description |
 |---|---|
+| 🧠 **Nova SLM v2** | Redesigned architecture — RMSNorm, RoPE, GQA, SwiGLU, KV caching, QK-norm — training up next |
 | 🍕 **FlavorFind 2.0** | Multi-platform aggregation, Swiggy & MagicPin integration, a personalization engine, and cloud infrastructure |
 | 🚆 **RailwayLens** | A FoodLens-style, AI-powered railway search and travel optimization platform |
 | 🛡 **DocShield** | Fraud detection for bills, receipts, and invoices using OCR, computer vision, deep learning, and anomaly detection |
