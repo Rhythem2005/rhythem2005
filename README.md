@@ -187,24 +187,6 @@ React → FastAPI → Machine Learning → Deep Learning → Agentic AI → Scal
 
 <br/>
 
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhythem2005&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Rhythem2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhythem2005&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rhythem2005&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
-</p>
-
-<br/>
-
 ## Contribution Activity
 
 <p align="center">
