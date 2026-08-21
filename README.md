@@ -38,7 +38,10 @@
 - 🤖 **MAJOR IN Artificial Intelligence** — IIT Ropar (2023-2024)
 - 🌱 Currently exploring **AI systems, machine learning, LLM's and agentic workflows**
 
-> I build products at the intersection of full-stack engineering and applied AI — turning models and APIs into real-world tools people actually use.
+> Computer Science student with hands-on experience in Full Stack Development and AI/ML, building end-to-end applications
+using React.js, Python, Flask, FastAPI, Node.js, REST APIs, and MongoDB. Experienced in developing AI applications including
+LLMs, Retrieval-Augmented Generation (RAG), transformer models, NLP, LangChain, OpenCV, and vector databases. Skilled in
+building production-oriented applications across frontend, backend, machine learning, and deployment.
 
 **Open to internships, collaborations, and startup opportunities.**
 
