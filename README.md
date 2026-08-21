@@ -56,7 +56,7 @@ building production-oriented applications across frontend, backend, machine lear
 🌿 Amrutam          → Rapid UI Building
 🎓 College AI       → RAG Systems
 📚 LeetCode Notes   → Productivity Tools
-🍕 FlavorFind       → AI Products
+🍕 FlavorFind       → Search Engine
 🛡 DocShield        → Deep Learning
 🔎 RAG QA System    → Retrieval-Augmented Generation
 🧠 Nova SLM         → Transformers from Scratch
