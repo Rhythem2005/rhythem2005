@@ -103,14 +103,6 @@ Focus: Search relevance · Ranking systems · Web scraping · Recommendation eng
 </td>
 <td width="33%" valign="top">
 
-### 🌾 FarmWise
-Smart India Hackathon project for agriculture optimization and crop disease detection.
-
-**Stack:** React · Flask · OpenCV · XGBoost · Gemini
-
-**Focus:** Computer vision · XGBoost · Team development · AI deployment
-
-</td>
 </tr>
 </table>
 
