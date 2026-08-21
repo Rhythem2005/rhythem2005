@@ -103,7 +103,6 @@ Focus: Search relevance · Ranking systems · Web scraping · Recommendation eng
 </td>
 <td width="33%" valign="top">
 
-</tr>
 </table>
 
 <br/>
