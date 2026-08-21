@@ -35,7 +35,7 @@
 ## About Me
 
 - 🎓 **B.Tech, Computer Science & Engineering** — BPIT Delhi (2023–2027)
-- 🤖 **MAJOR IN AI** — IIT Ropar (2023-2024)
+- 🤖 **MAJOR IN Artificial Intelligence** — IIT Ropar (2023-2024)
 - 🌱 Currently exploring **AI systems, machine learning, and agentic workflows**
 
 > I build products at the intersection of full-stack engineering and applied AI — turning models and APIs into real-world tools people actually use.
