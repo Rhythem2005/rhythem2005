@@ -2,7 +2,7 @@
 
 # Rhythem Sabharwal
 
-### AI Engineer || Full Stack Developer &nbsp;•&nbsp; AI/ML Engineer &nbsp;•&nbsp; Building AI Products
+### AI Engineer || Full Stack Developer &nbsp;•&nbsp; Building AI Products
 
 <p>
 <a href="https://portfolio-pqfa.vercel.app/" target="_blank">
