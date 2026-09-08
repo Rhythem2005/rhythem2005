@@ -176,7 +176,7 @@ Focus: Search relevance · Ranking systems · Web scraping · Recommendation eng
 ## Current Focus
 
 ```text
-React → FastAPI → Machine Learning → Deep Learning → Agentic AI → Scalable AI Products
+React → FastAPI → Machine Learning → Deep Learning → LLM's → RAG → Scalable AI Products.
 ```
 
 <br/>
